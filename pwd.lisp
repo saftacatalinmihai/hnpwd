@@ -684,6 +684,13 @@
   :hnuid "michaelsalim"
   :bio "Full-stack freelancer.  Develops open source libraries and web services.")
 
+ (:name "Mihai Safta"
+  :site "https://mihaisafta.dev/"
+  :blog "https://mihaisafta.dev/posts/"
+  :feed "https://mihaisafta.dev/index.xml"
+  :hnuid "saftamihai"
+  :bio "Software architect and engineer.  Writes about programming, hardware and design.")
+
  (:name "Mike Cardwell"
   :site "https://www.grepular.com/"
   :blog "https://www.grepular.com/blog/"
