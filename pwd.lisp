@@ -685,9 +685,9 @@
   :bio "Full-stack freelancer.  Develops open source libraries and web services.")
 
  (:name "Mihai Safta"
-  :site "https://mihaisafta.dev/"
-  :blog "https://mihaisafta.dev/posts/"
-  :feed "https://mihaisafta.dev/index.xml"
+  :site "https://mihai-safta.dev/"
+  :blog "https://mihai-safta.dev/posts/"
+  :feed "https://mihai-safta.dev/index.xml"
   :hnuid "saftamihai"
   :bio "Software architect and engineer.  Writes about programming, hardware and design.")
 
